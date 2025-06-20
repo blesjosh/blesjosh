@@ -13,6 +13,13 @@
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# Skills
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-blue?style=for-the-badge&logo=figma&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-Expert-9b59b6?style=for-the-badge&logo=adobe&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-Figma%20Master-f39c12?style=for-the-badge&logo=figma&logoColor=white)
+![User Research](https://img.shields.io/badge/User%20Research-Insightful-green?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Content Writing](https://img.shields.io/badge/Content%20Writing-Creative-3498db?style=for-the-badge&logo=notion&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-MERN%20Stack-2ecc71?style=for-the-badge&logo=stackshare&logoColor=white)
 
 ---
 
