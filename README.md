@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# Skills
+# 🤹 Skills
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-blue?style=for-the-badge&logo=figma&logoColor=white)
 ![Wireframing](https://img.shields.io/badge/Wireframing-Expert-9b59b6?style=for-the-badge&logo=adobe&logoColor=white)
 ![Prototyping](https://img.shields.io/badge/Prototyping-Figma%20Master-f39c12?style=for-the-badge&logo=figma&logoColor=white)
